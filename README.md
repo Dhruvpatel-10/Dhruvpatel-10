@@ -1,28 +1,39 @@
 ### Hey, I'm Dhruv 👋
 
-AI product engineer in Vadodara, India, working remotely with teams in any time zone.
-I build AI agents and the products around them: memory that outlives a session, voice that only calls the model when it has to, and systems that know their own state after a crash.
+AI and full stack engineer. I build AI agents and the products around them: memory that outlives a session, voice that only calls the model when it has to, and systems that know their own state after a crash. I work remotely, with teams in any time zone.
 
-**Now** · AI Product Engineer at LeanScale (remote, Dubai) since Oct 2025, building agent integrations for e-commerce and an internal agent platform. On the side, building a startup with a friend.
+- 🛠️ **Now:** building a startup with a friend.
+- 💼 **Before:** AI Product Engineer at LeanScale (Oct 2025 to Jul 2026), designing AI agent integrations for e-commerce and an internal agent platform. Freelance full stack developer before that (Oct 2023 to May 2025), working directly with startup founders.
+- ✍️ **Writing:** case studies with diagrams, and notes on whatever I'm learning, at [heydhruv.dev](https://heydhruv.dev).
 
 &nbsp;
 
 #### Open source
 
-| | |
-|---|---|
-| [**smriti**](https://github.com/Dhruvpatel-10/smriti) | A second memory for your AI tools. Local-first MCP server on SurrealDB, so coding agents remember what happened last session. |
-| [**Arlo**](https://github.com/Dhruvpatel-10/Arlo-Ai) | A voice assistant that picks tools locally first and asks the LLM less the more you use it. |
-| [**Signee**](https://github.com/Dhruvpatel-10/Signee) | SSH certificate authority as a service: short-lived SSH access that expires on its own. |
-| [**arche**](https://github.com/Dhruvpatel-10/arche) | My Arch Linux setup. Hyprland, the Ember theme, one-command bootstrap. |
+- **[smriti](https://github.com/Dhruvpatel-10/smriti)** · Rust, SurrealDB, MCP<br>
+  A second memory for your AI tools. A local-first MCP server, so coding agents remember what happened last session.
+- **[Arlo](https://github.com/Dhruvpatel-10/Arlo-Ai)** · Python, asyncio, Faster-Whisper, ChromaDB<br>
+  A voice assistant that picks tools locally first, and needs the LLM less the more you use it.
+- **[Signee](https://github.com/Dhruvpatel-10/Signee)** · Go, Gin, PostgreSQL, Vault<br>
+  An SSH certificate authority as a service: short-lived SSH access that expires on its own.
+- **[arche](https://github.com/Dhruvpatel-10/arche)** · Arch Linux, Hyprland<br>
+  My desktop setup. The Ember theme and a one-command bootstrap.
 
-Write-ups with diagrams for these, plus client work, live on **[heydhruv.dev](https://heydhruv.dev/projects)**.
+The full write-ups, plus client work I can't open-source, are at **[heydhruv.dev/projects](https://heydhruv.dev/projects)**.
 
 &nbsp;
 
-#### What I reach for
+#### Skills
 
-`TypeScript` `React` `TanStack` `Go` `Rust` `Python` `PostgreSQL` `SurrealDB` `Cloudflare Workers` `MCP`
+**Languages** · TypeScript · Go · Rust · Python · SQL
+
+**AI** · Claude · OpenAI · Groq · Mastra · LangChain · MCP · RAG · embeddings
+
+**Backend and data** · Node.js · NestJS · Bun · Gin · PostgreSQL · TimescaleDB · SurrealDB · gRPC · WebSockets
+
+**Frontend and desktop** · React · Next.js · TanStack Start · Tauri
+
+**Infrastructure** · AWS · Docker · CI/CD · Vault · Cloudflare Workers
 
 &nbsp;
 
