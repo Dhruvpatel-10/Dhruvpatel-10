@@ -39,4 +39,4 @@ The full write-ups, plus client work I can't open-source, are at **[heydhruv.dev
 
 #### Say hello
 
-[heydhruv.dev](https://heydhruv.dev/go/github) · [Book a call](https://cal.com/withdhruv) · [LinkedIn](https://www.linkedin.com/in/dhruv-patel-60862b298/) · [Email](mailto:dap.dhruv@gmail.com)
+[heydhruv.dev](https://heydhruv.dev/go/github) · [Book a call](https://heydhruv.dev/call) · [LinkedIn](https://www.linkedin.com/in/dhruv-patel-60862b298/) · [Email](mailto:dap.dhruv@gmail.com)
