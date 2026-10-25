@@ -4,7 +4,7 @@ AI and full stack engineer. I build AI agents and the products around them: memo
 
 - 🛠️ **Now:** building a startup with a friend.
 - 💼 **Before:** AI Product Engineer at LeanScale (Oct 2025 to Jul 2026), designing AI agent integrations for e-commerce and an internal agent platform. Freelance full stack developer before that (Oct 2023 to May 2025), working directly with startup founders.
-- ✍️ **Writing:** case studies with diagrams, and notes on whatever I'm learning, at [heydhruv.dev](https://heydhruv.dev).
+- ✍️ **Writing:** case studies with diagrams, and notes on whatever I'm learning, at [heydhruv.dev](https://heydhruv.dev/go/github).
 
 &nbsp;
 
@@ -19,7 +19,7 @@ AI and full stack engineer. I build AI agents and the products around them: memo
 - **[arche](https://github.com/Dhruvpatel-10/arche)** · Arch Linux, Hyprland<br>
   My desktop setup. The Ember theme and a one-command bootstrap.
 
-The full write-ups, plus client work I can't open-source, are at **[heydhruv.dev/projects](https://heydhruv.dev/projects)**.
+The full write-ups, plus client work I can't open-source, are at **[heydhruv.dev/projects](https://heydhruv.dev/projects?ref=github&utm_source=github&utm_medium=profile)**.
 
 &nbsp;
 
@@ -39,4 +39,4 @@ The full write-ups, plus client work I can't open-source, are at **[heydhruv.dev
 
 #### Say hello
 
-[heydhruv.dev](https://heydhruv.dev) · [Book a call](https://cal.com/withdhruv) · [LinkedIn](https://www.linkedin.com/in/dhruv-patel-60862b298/) · [Email](mailto:dap.dhruv@gmail.com)
+[heydhruv.dev](https://heydhruv.dev/go/github) · [Book a call](https://cal.com/withdhruv) · [LinkedIn](https://www.linkedin.com/in/dhruv-patel-60862b298/) · [Email](mailto:dap.dhruv@gmail.com)
